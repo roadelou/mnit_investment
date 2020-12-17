@@ -1,0 +1,12 @@
+# Ignore the virtual environment for the project
+env
+# Ignore the package metadata
+investment.egg-info
+# Ignore python's import optimizations
+__pycache__
+# Ignore potential plot files
+*.png
+# Ignoring tox's cache
+.tox
+# Ignoring pytests's cache
+.pytest_cache
