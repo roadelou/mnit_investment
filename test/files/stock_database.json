@@ -1,0 +1,42 @@
+[
+    {
+        "price": 2,
+        "roi": 3,
+        "company": "A"
+    },
+    {
+        "price": 2,
+        "roi": 3,
+        "company": "A"
+    },
+    {
+        "price": 2,
+        "roi": 3,
+        "company": "A"
+    },
+    {
+        "price": 4,
+        "roi": 8,
+        "company": "B"
+    },
+    {
+        "price": 4,
+        "roi": 8,
+        "company": "B"
+    },
+    {
+        "price": 5,
+        "roi": 13,
+        "company": "C"
+    },
+    {
+        "price": 5,
+        "roi": 13,
+        "company": "C"
+    },
+    {
+        "price": 7,
+        "roi": 20,
+        "company": "D"
+    }
+]
