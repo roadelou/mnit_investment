@@ -83,6 +83,10 @@ Source File | Content
 [portfolio.py](investment/portfolio.py) | Internal class representing a Portfolio of Stocks
 [stock.py](investment/stock.py) | Internal class representing a single Stock
 
+## Additional Links
+
+The __Style Guide for Python Code__ was written in [PEP 8](https://www.python.org/dev/peps/pep-0008/). It details how Python code should be written, what naming conventions should be followed etc...
+
 ### METADATA
 
 Field | Value
